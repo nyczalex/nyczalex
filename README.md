@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex!  <a href="https://www.linkedin.com/in/alex-tam-05113056/)">Linkedin</a>, <a href="https://www.youtube.com/@nyczalex">YouTube</a></h1>
+<h1>Hi, I'm Alex!  <a href="https://www.linkedin.com/in/alex-tam-05113056/)">LinkedIn</a>, <a href="https://www.youtube.com/@nyczalex">YouTube</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
 
